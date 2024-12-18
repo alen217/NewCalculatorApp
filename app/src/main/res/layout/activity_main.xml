@@ -23,7 +23,8 @@
     <androidx.appcompat.widget.AppCompatButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="SUB"/>
+        android:text="SUB"
+        android:id="@+id/sb"/>
 
     <androidx.appcompat.widget.AppCompatButton
         android:layout_width="match_parent"
